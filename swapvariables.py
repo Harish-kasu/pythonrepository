@@ -1,5 +1,9 @@
-x = 5
-y = 7
+x = 8
+y = 9
 
-z = x + y
-print(z)
+x = x + y
+y = x - y
+x = x - y
+
+print(x)
+print(y)
