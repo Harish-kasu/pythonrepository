@@ -1,0 +1,9 @@
+x = int(input("enter the vaule of x"))
+if 90<x<=100:
+    print("grade A ")
+elif 80<x<=90:
+    print("garde B")
+elif 70<x<=80:
+    print("garde C")
+else:
+    print("fail")
