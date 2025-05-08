@@ -6,4 +6,4 @@ elif 80<x<=90:
 elif 70<x<=80:
     print("garde C")
 else:
-    print("fail")
+    print("fail")       
