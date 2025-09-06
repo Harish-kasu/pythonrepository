@@ -4,7 +4,6 @@ class humans:
 
 class boys(humans):
     def eat(self):
-        super().eat()
         print("boys are eating rice")
 
 
